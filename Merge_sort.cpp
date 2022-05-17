@@ -1,8 +1,6 @@
 // Merge_sort.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // implemetation of merge sort and report number of comparisons
-// name : mansi joshi
-// roll no : 2019/102
-// Analysis of Algorithm
+
 
 // Algorithm for Merge Sort
 /*It is a divide and conquer algorithm
