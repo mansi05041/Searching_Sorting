@@ -1,8 +1,6 @@
 // Randomized_Quick_Sort.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Implement Randomized Quick Sort and report number of comparisons
-// Name : Mansi joshi
-// Roll no : 2019/102
-// Analysis of algorithm ( practical )
+
 
 // Algorithm of Randomized quick sort
 /*In Randomized quick sort , we select the pivot randomly 
