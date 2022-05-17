@@ -7,7 +7,7 @@
 
 #include <iostream>
 using namespace std;
-int n = 8;
+
 //user-defined functions
 void QuickSort(int arr[], int low, int high);
 void ShowPass(int arr[], int n);
@@ -67,7 +67,6 @@ int partition(int arr[], int low, int high) {
         }
     }
     Swap(&arr[i + 1], &arr[high]);
-    ShowPass(arr, n);
     return(i + 1);
 }
 
