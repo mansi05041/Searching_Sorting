@@ -1,10 +1,6 @@
 //LinearSearch.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //Linear Search 
-/* Name : Mansi Joshi
-* Roll no: 2019/102
-* Course : BSc Physical Science
-* Subject : Analysis of Algorithm
-*/
+
 
 /*Time Complexity
 * Best case : O(1)
