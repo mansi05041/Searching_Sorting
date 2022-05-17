@@ -1,8 +1,6 @@
 // Insertion_Sort.cpp : This file contains the 'main' function. Program execution begins and ends there.
 // Insertion Sort Implementation & Report the number of Comparisons
-// Name : mansi joshi
-// Roll no : 2019/102
-// Analysis of Algorithm ( practical )
+
 
 // Algorithm of insertion sort
 /* Spliting the array into sorted and unsorted array
